@@ -19,4 +19,4 @@ STEPS TO CREATE ALGORITHM:
 
 -Prediction: Prediction is made given the results of Nearest Neighbor Search
 
-*I created a simple scrollable UI using Tkinter to allow users to efficiently verify the results of the Search*
+^*I created a simple scrollable UI using Tkinter to allow users to efficiently verify the results of the Search^*
