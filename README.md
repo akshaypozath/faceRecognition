@@ -1,5 +1,5 @@
 # faceRecognition(TEST)
-Facial Recognition: Test out a facial recognition algorithm that utilizes CLIP model (Contrastive Learning Image Pretraining) in order to isolate features given an image and make predictions given those features
+Facial Recognition:  Create and test the functionality of a facial recognition algorithm that utilizes CLIP model (Contrastive Learning Image Pretraining) in order to isolate features given an image and make predictions given those features
 
 
 CLIP Model: The clip model enables the user to identify the association between both text and images using the image and text encoder that the CLIP model contains
